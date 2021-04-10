@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8e6216241b65b184f9f90cffcc9e900f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_QuadMaterial: {fileID: 2100000, guid: 79fafb54644ba104dba882f93c42cc9b, type: 2}
+  - m_Skybox: {instanceID: 0}
+  - m_ComputeShader: {fileID: 7200000, guid: ac82c2cd158647142ab2b0b292bd923e, type: 3}
+  - m_ModelMat: {fileID: 2100000, guid: 7801c53257f9f5748afb4a485ef4a5ea, type: 2}
+  - m_ModelMesh: {fileID: -2432090755550338912, guid: 6e5ff74be844b43479aa08a6a8088eb1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
